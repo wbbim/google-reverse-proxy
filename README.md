@@ -1,4 +1,4 @@
 google-reverse-proxy
 ====================
 
-Simple reverse proxy of Google
+A simple reverse proxy of Google (HTTPS only)
